@@ -51,6 +51,12 @@ make test
 %{_mandir}/man3/*
 
 %changelog
+* Thu Dec 25 2014 Rajiv M Ranganath <rajiv.ranganath@atihita.com> 1.15-1
+- Adapt for AL/LL
+- Add package support URL
+- Update spec file
+- Import source package FC22/perl-Config-GitLike-1.15-1.fc22
+
 * Mon Nov 10 2014 Emmanuel Seyman <emmanuel@seyman.fr> - 1.15-1
 - Update to 1.15
 
