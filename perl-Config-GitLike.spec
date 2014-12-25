@@ -19,6 +19,9 @@ Requires:       perl(:MODULE_COMPAT_%(eval "`%{__perl} -V:version`"; echo $versi
 %{?perl_default_filter}
 
 %description
+For package support, please visit
+https://github.com/lambda-linux-pkgs/%{name}/issues
+
 This module handles interaction with configuration files of the style used
 by the version control system Git. It can both parse and modify these
 files, as well as create entirely new ones.
