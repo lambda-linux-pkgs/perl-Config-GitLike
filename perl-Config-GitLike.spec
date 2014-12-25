@@ -9,7 +9,6 @@ Source0:        http://search.cpan.org/CPAN/authors/id/A/AL/ALEXMV/Config-GitLik
 
 BuildArch:      noarch
 BuildRequires:  perl
-BuildRequires:  perl(Any::Moose)
 BuildRequires:  perl(ExtUtils::MakeMaker)
 BuildRequires:  perl(Moo)
 BuildRequires:  perl(MooX::Types::MooseLike::Base)
