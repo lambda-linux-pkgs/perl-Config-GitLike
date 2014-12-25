@@ -1,6 +1,8 @@
+%define _buildid .2
+
 Name:           perl-Config-GitLike
 Version:        1.15
-Release:        1%{?dist}
+Release:        1%{?_buildid}%{?dist}
 Summary:        Git-compatible config file parsing
 License:        GPL+ or Artistic
 
